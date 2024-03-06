@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Setup
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+1. Install NodeJS LTS https://nodejs.org/en/download.
+2. Install VSCode https://code.visualstudio.com/.
+3. Add the Vue language feature in the extension tab to visual studio code https://marketplace.visualstudio.com/items?itemName=Vue.volar.
+4. Install Git https://git-scm.com/.
+5. Clone the Github repository https://github.com/VictorW96/bwinf-login-app by executing `git clone https://github.com/VictorW96/bwinf-login-app.git` in a folder of your choosing.
+6. Open the cloned repository folder in VScode File -> Open Folder... and select the bwinf-login-app folder.
+7. In the bottom of your VScode window you can find a terminal. Enter `npm install` and execute the command.
+8. After its finished execute `npm run dev` and you should see the UI in any browser under `http://localhost:5173/`
 
-## Recommended IDE Setup
+# Resources
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+* VueJS documentation: https://vuejs.org/guide/introduction.html
+* TailwindCSS documentation: https://tailwindcss.com/docs/flex-basis
