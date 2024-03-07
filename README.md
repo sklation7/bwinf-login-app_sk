@@ -6,8 +6,8 @@
 4. Install Git https://git-scm.com/.
 5. Clone the Github repository https://github.com/qaware/bwinf-login-app.git by executing `git clone https://github.com/qaware/bwinf-login-app.git` in a folder of your choosing.
 6. Open the cloned repository folder in VScode File -> Open Folder... and select the bwinf-login-app folder.
-7. In the bottom of your VScode window you can find a terminal. Enter `npm install` and execute the command.
-8. After its finished execute `npm run dev` and you should see the UI in any browser under `http://localhost:5173/`
+7. In the bottom of your VScode window you can find a terminal. If there is no terminal open it by pressing Terminal -> New Terminal or strg-shift-ö. Enter `npm install` and execute the command.
+8. After the installtion is finished execute `npm run dev` and you should see the UI in any browser under `http://localhost:5173/`
 
 # Resources
 
