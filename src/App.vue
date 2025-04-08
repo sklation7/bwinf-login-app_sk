@@ -3,7 +3,7 @@ import Login from './components/Login.vue';
 import Registration from './components/Registration.vue';
 import { ref } from 'vue'
 
-let isLoggedIn=ref(false)
+let isLoggedIn = ref(false);
 </script>
 
 <template>
