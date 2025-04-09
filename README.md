@@ -19,7 +19,7 @@ This project will be worked on by teams of three to five people. You can enhance
 
 # Resources
 ## HTML, Javascript and CSS basics
-* HTML, CSS, JavaScript: https://www.w3schools.com/, https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+* HTML, CSS, JavaScript: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 * CSS selectors: CSS Diner https://flukeout.github.io/
 * CSS flexbox: https://flexboxfroggy.com/#de
 * CSS https://codingfantasy.com/games
