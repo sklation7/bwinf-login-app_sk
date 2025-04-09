@@ -8,7 +8,7 @@
 6. Install the recommended Extensions for this Project by selecting the Extensions Tab on the left and typing `@recommended` in the search bar. Then press the *Install Workspace Recommended Extensions*, which is a cloud with an arrow pointing down beneath the search bar.
 7. In the bottom of your VScode window you can find a terminal. If there is no terminal open it by pressing Terminal -> New Terminal or strg-shift-ö. Enter `npm install` and execute the command.
 8. Install [localtunnel](https://github.com/localtunnel/localtunnel) by entering `npm install -g localtunnel` into the terminal.
-9. After the installtion is finished execute `npm run dev` and you should see the UI in any browser under `http://localhost:5173/`.
+9. After the installation is finished execute `npm run dev` and you should see the UI in any browser under `http://localhost:5173/`.
 
 # Collaboration
 
