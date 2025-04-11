@@ -12,8 +12,18 @@ let isLoggedIn = ref(false);
       This is a login dialogue
     </h1>
     <div class="flex flex-row mx-auto">
-      <button @click="isLoggedIn = !isLoggedIn" class="p-4 m-4 rounded-lg font-sans font-bold text-white bg-sky-500 hover:bg-sky-700">Login</button>
-      <button class="p-4 m-4 rounded-lg font-sans font-bold bg-sky-500 hover:bg-sky-700 text-white">Registration</button>
+      <button
+        @click="isLoggedIn = !isLoggedIn"
+        class="p-4 m-4 rounded-lg font-sans font-bold text-white"
+        :class="[isLoggedIn ? ' bg-sky-500 hover:bg-sky-700' : ' bg-red-400 hover:bg-red-700']"
+      >
+        Login
+      </button>
+      <button
+        class="p-4 m-4 rounded-lg font-sans font-bold bg-sky-500 hover:bg-sky-700 text-white"
+      >
+        Registration
+      </button>
     </div>
   </div>
   <div v-if="isLoggedIn" class="flex flex-row">
